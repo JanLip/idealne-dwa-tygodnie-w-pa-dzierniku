@@ -18,8 +18,8 @@
 
 # All members who are assigned the Project Collaborator role own any file under docs/ directory
 # anywhere in the repository, but not further nested files
-# docs/* "Project Collaborator"
+# docs/* "Project Collaborato
 
 # This file itself is owned by members who are assigned the Project Admin role in this project.
+WŁAŚCICIELE KODU"
 CODEOWNERS "Project Admin"
-``
